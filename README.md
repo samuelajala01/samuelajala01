@@ -1,5 +1,5 @@
 ### Hi there, I'm Samuel Ajala 👋
-
+![samuelajala01](https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic)
 
 - 🔭 I’m currently working on Portfolio 2.0
 - 🌱 I’m currently learning Node JS
