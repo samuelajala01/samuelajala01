@@ -1,4 +1,7 @@
-### Hi there, I'm Samuel Ajala 👋
+# Samuel Ajala
+
+
+### Hi there, I'm The Lazy Programmer 👋
 ![samuelajala01](https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic)
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
