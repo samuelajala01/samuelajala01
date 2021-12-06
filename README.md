@@ -9,3 +9,6 @@
 - 📫 How to reach me:    [Twitter - @samuelajala01](https://twitter.com/samuelajala01) [Instagram - @samuelajala01](https://instagram.com/xamy.dev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice Martial Arts
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1)](https://github.com/samuelajala01)
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&theme=dark&line_height=27&bgcolor=191919)](https://github.com/samuelajala01)
