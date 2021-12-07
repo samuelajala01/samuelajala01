@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Web projects
 - 🤔 I’m looking for help with learning Blockchain
 - 💬 Ask me about JavaScript, Web Security and Embedded Systems
-- 📫 How to reach me:    [Twitter - @samuelajala01](https://twitter.com/samuelajala01) [Instagram - @samuelajala01](https://instagram.com/xamy.dev)
+- 📫 How to reach me:    [Gmail - @samuelajala01](https://samuelajala01@gmail.com) [Instagram - @samuelajala01](https://instagram.com/xamy.dev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice Martial Arts
 
