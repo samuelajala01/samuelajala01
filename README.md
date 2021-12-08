@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Portfolio 2.0
 - 🌱 I’m currently learning Node JS
-- 👯 I’m looking to collaborate on Web projects
+- 👯 I’m looking to collaborate on Web and mobile projects
 - 🤔 I’m looking for help with learning Blockchain
 - 💬 Ask me about JavaScript, Web Security and Embedded Systems
 - 📫 How to reach me:    [Gmail - @samuelajala01](https://samuelajala01@gmail.com) [Instagram - @samuelajala01](https://instagram.com/xamy.dev)
