@@ -13,11 +13,11 @@
 - 🔭 I’m currently working on Portfolio 2.0
 - 🌱 I’m currently learning Express
 - 👯 I’m looking to collaborate on Web and mobile projects
-- 🤔 I’m looking for help with learning Blockchain
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about JavaScript, Web Security and Embedded Systems
-- 📫 How to reach me:    [Gmail - @samuelajala01](https://samuelajala01@gmail.com) [Instagram - xamy.dev](https://instagram.com/xamy.dev)
+- 📫 How to reach me:  [Gmail - @samuelajala01](https://samuelajala01@gmail.com) [Instagram - xamy.dev](https://instagram.com/xamy.dev)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I practice Martial Arts🥋
+- ⚡ Fun fact: I practice Martial Arts 🥋
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1)](https://github.com/samuelajala01)
 [![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&theme=tokyonight&line_height=27&color=0000FF&bgcolor=191919)](https://github.com/samuelajala01)
