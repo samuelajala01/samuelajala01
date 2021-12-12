@@ -1,7 +1,7 @@
-# Samuel Ajala
+<h1 align = center> Samuel Ajala</h1>
 
 
-### Hi there, I'm the Tech Genius 👋
+<h2 align = center> Hi there, I'm the Tech Genius 👋</h2>
 ![samuelajala01](https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic)
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
