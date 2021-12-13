@@ -1,7 +1,7 @@
 <h1 align = center> Samuel Ajala</h1>
 
 
-<h2 align = center> Hi there, I'm the Tech Genius 👋</h2>
+<h2 align = center> Hi there, I'm a Tech Genius 👋</h2>
 
 ![samuelajala01](https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic)
 
