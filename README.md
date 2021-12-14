@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on Portfolio 2.0
-- 🌱 I’m currently learning Express
+- 🌱 I’m currently learning Backend Technologies 
 - 👯 I’m looking to collaborate on Web and mobile projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about JavaScript, Web Security and Embedded Systems
