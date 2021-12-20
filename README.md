@@ -3,7 +3,6 @@
 
 <h2 align = center> Hi there, I'm a Tech Genius 👋</h2>
 
-![samuelajala01](https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic)
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
@@ -20,10 +19,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice Martial Arts 🥋
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1)](https://github.com/samuelajala01)
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&theme=tokyonight&line_height=27&color=0000FF&bgcolor=191919&include_all_commits=true) ](https://github.com/samuelajala01)
+<p>
+  <img width=400em src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/>
+</p>
 
-## \*Languages and Tools:\*
+
+<p>
+  <img width=500em src ="https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&theme=tokyonight&line_height=27&color=0000FF&bgcolor=191919&include_all_commits=true"/>
+</p>
+
+## Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -31,3 +36,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  
+<p align=center>
+<img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic"/>
+</p>
+  
+  
