@@ -24,7 +24,7 @@
  
 - 😄 Pronouns: He/Him
  
-- ⚡ Fun fact: I practice Martial Arts 🥋
+- ⚡ Fun fact: I remember almost every fact I've ever read about.
 
   <img width=300px src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/><br>
 
