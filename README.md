@@ -16,7 +16,7 @@
   
 - 👯 I’m looking to collaborate on Web and mobile projects
  
-- 🤔 I’m looking for help with Blockchain
+- 🤔 I’m looking for help with Learning Blockchain 
  
 - 💬 Ask me about JavaScript, Web Security and Embedded Systems
  
