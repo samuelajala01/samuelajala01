@@ -10,21 +10,21 @@
 
 
 
-- 🔭 I’m currently working on Portfolio 2.0
+- #### 🔭 I’m currently working on Portfolio 2.0
 
-- 🌱 I’m currently learning Backend Technologies
+- #### 🌱 I’m currently learning Backend Technologies
   
-- 👯 I’m looking to collaborate on Web and mobile projects
+- #### 👯 I’m looking to collaborate on Web and mobile projects
  
-- 🤔 I’m looking for help with Learning Blockchain 
+- #### 🤔 I’m looking for help with Learning Blockchain 
  
-- 💬 Ask me about JavaScript, Web Security and Embedded Systems
+- #### 💬 Ask me about JavaScript, Web Security and Embedded Systems
  
-- 📫 How to reach me:  [Instagram - xamy.dev](https://instagram.com/xamy.dev)
+- #### 📫 How to reach me:  [Instagram - xamy.dev](https://instagram.com/xamy.dev)
  
-- 😄 Pronouns: He/Him
+- #### 😄 Pronouns: He/Him
  
-- ⚡ Fun fact: I remember almost every fact I've ever read about.
+- #### ⚡ Fun fact: I remember almost every fact I've ever read about.
 
   <img width=300px src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/><br>
 
