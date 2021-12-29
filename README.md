@@ -10,7 +10,7 @@
 
 
 
-- #### 🔭 I’m currently working on Portfolio 2.0
+- #### 🔭 Solving Problems with Tech
 
 - #### 🌱 I’m currently learning Backend Technologies
   
@@ -24,7 +24,7 @@
  
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I remember almost every fact I've ever read about.
+- #### ⚡ Fun fact: I once used to be called "Prof".
 
   <img width=300px src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/><br>
 
