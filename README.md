@@ -1,4 +1,4 @@
-<h1 align = center> Samuel Ajala</h1>
+<h1 align = center font-size="60px"> Samuel Ajala</h1>
 
 
 <h2 align = center> Hi there, I'm a Tech Genius 👋</h2>
