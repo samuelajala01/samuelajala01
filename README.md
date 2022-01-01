@@ -14,7 +14,7 @@
 
 - #### 🌱 I’m currently learning Backend Technologies
   
-- #### 👯 I’m looking to collaborate on Web and mobile projects
+- #### 👯 Ready to collaborate on Web and mobile projects
  
 - #### 🤔 I’m looking for help with Learning Blockchain 
  
