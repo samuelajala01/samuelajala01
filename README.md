@@ -24,7 +24,7 @@
  
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I once used to be called "Prof".
+- #### ⚡ Fun fact: Leonardo Da Vinci used to buy caged animals to set them free.
 
   <img width=300px src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/><br>
 
