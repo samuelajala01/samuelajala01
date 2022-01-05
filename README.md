@@ -10,7 +10,7 @@
 
 
 
-- #### 🔭 Solving Problems with Tech
+- #### 🔭 Solving Problems with Science and Technology
 
 - #### 🌱 I’m currently learning Backend Technologies
   
