@@ -16,7 +16,7 @@
   
 - #### 👯 Ready to collaborate on Web and mobile projects
  
-- #### 🤔 I’m looking for help with Learning Blockchain 
+- #### 🤔 I’m looking for help with picking the right Node.js frameworks
  
 - #### 💬 Ask me about JavaScript, Web Security and Embedded Systems
  
