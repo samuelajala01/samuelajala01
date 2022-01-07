@@ -18,9 +18,9 @@
  
 - #### 🤔 I’m looking for help with picking the right Node.js frameworks
  
-- #### 💬 Ask me about JavaScript, Web Security and Embedded Systems
+- #### 💬 Ask me about Web Security and Embedded Systems
  
-- #### 📫 How to reach me:  [Instagram - xamy.dev](https://instagram.com/xamy.dev)
+- #### 📫 How to reach me:  [IG - xamy.dev](https://instagram.com/xamy.dev)
  
 - #### 😄 Pronouns: He/Him
  
