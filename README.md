@@ -10,21 +10,21 @@
 
 
 
-- #### 🔭 Solving Problems with Science and Technology
+- ### 🔭 Solving Problems with Science and Technology
 
-- #### 🌱 I’m currently learning Backend Technologies
+- ### 🌱 I’m currently learning Backend Technologies
   
-- #### 👯 Ready to collaborate on Web and mobile projects
+- ### 👯 Ready to collaborate on Web and mobile projects
  
-- #### 🤔 I’m looking for help with picking the right Node.js frameworks
+- ### 🤔 I’m looking for help with picking the right Node.js frameworks
  
-- #### 💬 Ask me about Web Security and Embedded Systems
+- ### 💬 Ask me about Web Security and Embedded Systems
  
-- #### 📫 How to reach me:  [IG - xamy.dev](https://instagram.com/xamy.dev)
+- ### 📫 How to reach me:  [IG - xamy.dev](https://instagram.com/xamy.dev)
  
-- #### 😄 Pronouns: He/Him
+- ### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I practice martial Arts
+- ### ⚡ Fun fact: I practice martial Arts <br><br>
 
 
 ## My Github Stats
