@@ -25,10 +25,12 @@
 - #### 😄 Pronouns: He/Him
  
 - #### ⚡ Fun fact: I practice martial Arts
-
-  <img width=300px src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&theme=dark&hide_langs_below=1"/><br>
-
-  <img width=500em src ="https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&theme=tokyonight&line_height=27&color=0000FF&bgcolor=191919&include_all_commits=true"/>
+  
+   <div>
+  <a href="https://github.com/samuelajala01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Languages and Tools:
 
