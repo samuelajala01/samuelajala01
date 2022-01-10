@@ -12,7 +12,7 @@
 
 - ### 🔭 Solving Problems with Science and Technology
 
-- ### 🌱 I’m currently learning Backend Technologies
+- ### 🌱 I’m currently learning Data Structures and Algorithms 
   
 - ### 👯 Ready to collaborate on Web and mobile projects
  
