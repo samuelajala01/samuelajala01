@@ -1,5 +1,6 @@
-<h1 align = center> Samuel Ajala</h1>
 
+<h1 align = center> Samuel Ajala</h1>
+<p align=center><img src = "https://user-images.githubusercontent.com/66500541/148958383-99dd645c-c3bd-4906-8491-117d4f3ee25c.jpg" height="260"></p>
 
 <h2 align = center> Hi there, I'm a Tech Genius 👋</h2>
 
