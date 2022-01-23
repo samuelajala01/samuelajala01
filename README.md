@@ -13,7 +13,7 @@
 
 - ### 🔭 Solving Problems with Science and Technology
 
-- ### 🌱 I’m currently learning Data Structures and Algorithms 
+- ### 🌱 I’m currently building with React JS 
   
 - ### 👯 Ready to collaborate on Web and mobile projects
  
