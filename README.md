@@ -29,9 +29,12 @@
 
 
 ## My Github Stats
+<div align = "center">
   <a href="https://github.com/samuelajala01">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br><br>
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
+    </div>   
 
 ## Languages and Tools:
 
