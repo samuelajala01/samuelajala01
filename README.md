@@ -13,7 +13,7 @@
 
 - ### 🔭 Solving Problems with Science and Technology
 
-- ### 🌱 I’m currently building with React JS 
+- ### 🌱 I’m currently building with React JS and Tailwindcss
   
 - ### 👯 Ready to collaborate on Web and mobile projects
  
