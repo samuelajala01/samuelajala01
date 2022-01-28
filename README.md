@@ -17,7 +17,7 @@
   
 - ### 👯 Ready to collaborate on Web and mobile projects
  
-- ### 🤔 I’m looking for help with Web3 resources
+- ### 🤔 I’m looking for help with ...
  
 - ### 💬 Ask me about Web Security and Embedded Systems
  
