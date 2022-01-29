@@ -35,8 +35,13 @@
     <br><br>
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
     </div>   
-
-## Languages and Tools:
+  
+ <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>  
+  
+  
+  ## Languages and Tools:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
