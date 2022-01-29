@@ -36,9 +36,8 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
     </div>   
   
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>  
+ <p align="center"><img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=380"/></p>  
   
   
   ## Languages and Tools:
