@@ -14,7 +14,7 @@
 
 - ### 🔭 Solving Problems with Science and Technology
 
-- ### 🌱 I’m currently building with React JS and Tailwindcss
+- ### 🌱 I’m currently building with...
   
 - ### 👯 Ready to collaborate on Web and mobile projects
  
@@ -33,7 +33,6 @@
 <div align = "center">
   <a href="https://github.com/samuelajala01">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br><br>
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
     </div>   
   
