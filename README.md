@@ -25,7 +25,7 @@
  
 - ### 💬 Ask me about BlockChain and Embedded Systems
  
-- ### 📫 How to reach me:  [IG - xamy.dev](https://instagram.com/xamy.dev)
+- ### 📫 How to reach me: [IG - xamy.dev](https://instagram.com/xamy.dev)
  
 - ### 😄 Pronouns: He/Him
  
@@ -33,17 +33,11 @@
 
 
 ## My Github Stats
-<p align = "center">
-  <a href="https://github.com/samuelajala01">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
-    </p>   
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=380"/> 
   
- <p align="center"><img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=380"/>
-</p>  
-  
-  
+ 
   ## Languages and Tools:
 
 <p align="center">
