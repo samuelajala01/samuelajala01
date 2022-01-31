@@ -2,8 +2,11 @@
 <h1 align = center> Samuel Ajala</h1>
 <p align=center><img src = "https://user-images.githubusercontent.com/66500541/148958383-99dd645c-c3bd-4906-8491-117d4f3ee25c.jpg" height="260"></p>
 
-<h2 align = center> Hey there, I'm a Tech Genius 👋</h2>
-
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+a+Tech+Genuis...;Welcome+to+my+Profile!&center=true&size=30&">
+  </a>
+</h1>
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
@@ -37,7 +40,8 @@
     </p>   
   
  <p align="center"><img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=380"/></p>  
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=380"/>
+</p>  
   
   
   ## Languages and Tools:
