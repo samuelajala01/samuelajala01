@@ -32,7 +32,7 @@
 - ### ⚡ Fun fact: I practice martial Arts <br><br>
 
 
-## My Github Stats:
+## My Dev Stats:
 <p align="center">
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
@@ -70,7 +70,7 @@ style="vertical-align:top; margin: 4px">
   <p align=center><a href="https://www.buymeacoffee.com/samuelajala01" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
 <p align=center>
-<img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=blue&style=plastic"/>
+<img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Views&color=green&style=plastic"/>
 </p>
   
   
