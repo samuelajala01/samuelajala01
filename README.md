@@ -15,7 +15,7 @@
 
 
 
-- ### 🔭 Solving Problems with Science and Technology
+- ### 🔭 Solving Problems with Technology
 
 - ### 🌱 I’m currently building with...
   
