@@ -19,7 +19,7 @@
 
 - ### 🌱 I’m currently building with...
   
-- ### 👯 Ready to collaborate on Web and mobile projects
+- ### 👯 Soon ready to collaborate on Web projects
  
 - ### 🤔 I’m looking for help with ...
  
