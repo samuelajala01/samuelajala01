@@ -8,13 +8,6 @@
   </a>
 </h1>
 
-[![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
-[![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
-[![Instagram Badge](https://img.shields.io/badge/-@xamy.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/xamy.dev)
-[![GitHub samuelajala01](https://img.shields.io/github/followers/samuelajala01?label=follow&style=social)](https://github.com/samuelajala01)
-
-
-
 - ### 🔭 Solving Problems with Technology
 
 - ### 🌱 Contributing more to Open Source
@@ -64,6 +57,15 @@ style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
 </p>
+
+### Let's Connect: 
+
+[![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
+[![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
+[![Instagram Badge](https://img.shields.io/badge/-@xamy.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/xamy.dev)
+[![GitHub samuelajala01](https://img.shields.io/github/followers/samuelajala01?label=follow&style=social)](https://github.com/samuelajala01)
+
+
 
 <br><br>
   Like what I do, maybe consider buying me a coffee/book
