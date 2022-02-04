@@ -26,11 +26,10 @@
 
 
 ## My Dev Stats:
-<p align="center">
+<div align="center">
   <img align="center" width=690em src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
- </p>
- <br>
+ </div>
   <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=480"/> 
   
  
