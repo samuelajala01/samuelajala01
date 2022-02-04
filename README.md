@@ -17,7 +17,7 @@
 
 - ### 🔭 Solving Problems with Technology
 
-- ### 🌱 I’m currently building with...
+- ### 🌱 Contributing more to Open Source
   
 - ### 👯 Soon ready to collaborate on Web projects
  
