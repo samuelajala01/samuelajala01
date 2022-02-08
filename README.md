@@ -14,7 +14,7 @@
   
 - ### 👯 Soon ready to collaborate on Web projects
  
-- ### 🤔 I’m looking for help with ...
+- ### 🤔 I’m looking for help with getting an internship...
  
 - ### 💬 Ask me about BlockChain and Embedded Systems
  
