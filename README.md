@@ -16,7 +16,7 @@
  
 - ### 🤔 I’m looking for help with getting an internship...
  
-- ### 💬 Ask me about BlockChain and Embedded Systems
+- ### 💬 Ask me about Web dev and Embedded Systems
  
 - ### 📫 How to reach me: [IG - xamy.dev](https://instagram.com/xamy.dev)
  
