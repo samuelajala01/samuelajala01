@@ -18,7 +18,7 @@
  
 - ### 💬 Ask me about Web dev and Embedded Systems
  
-- ### 📫 How to reach me: [IG - xamy.dev](https://instagram.com/xamy.dev)
+- ### 📫 How to reach me: [IG](https://instagram.com/xamy.dev)
  
 - ### 😄 Pronouns: He/Him
  
