@@ -17,9 +17,7 @@
 - ### 🤔 I’m looking for help with getting an internship...
  
 - ### 💬 Ask me about Web dev and Embedded Systems
- 
-- ### 📫 How to reach me: [IG](https://instagram.com/xamy.dev)
- 
+
 - ### 😄 Pronouns: He/Him
  
 - ### ⚡ Fun fact: I practice martial Arts <br><br>
