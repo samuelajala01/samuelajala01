@@ -34,7 +34,13 @@
   ## Languages and Tools:
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" style="vertical-align:top; margin:4px"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -49,24 +55,15 @@
     style="vertical-align:top; margin: 4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
     style="vertical-align:top; margin: 4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin: 4px"/>
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="40" style="vertical-align:top; margin: 4px"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"style="vertical-align:top; margin: 4px"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" style="vertical-align:top; margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" style="vertical-align:top; margin:4px"/>
+</p>
  
-
 ### Let's Connect: 
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
