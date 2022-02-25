@@ -12,7 +12,7 @@
 
 - ### 🌱 Contributing more to Open Source
   
-- ### 👯 Ready to collaborate on Web projects
+- ### 👯 Ready to collaborate on Hardware or Software projects 
  
 - ### 🤔 I’m looking for help with getting an internship or a job...
  
