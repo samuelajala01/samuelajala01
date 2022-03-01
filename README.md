@@ -14,7 +14,7 @@
   
 - ### 👯 Ready to collaborate on Hardware or Software projects 
  
-- ### 🤔 I’m looking for help with getting an internship or a job...
+- ### 🤔 I’m looking for help with getting a job...
  
 - ### 💬 Ask me about Web dev and Embedded Systems
 
