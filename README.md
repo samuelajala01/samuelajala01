@@ -14,7 +14,7 @@
   
 - ### 👯 Ready to collaborate on Hardware or Software projects 
  
-- ### 🤔 I’m looking for help with webRTC...
+- ### 🤔 I’m looking for help with webRTC SDKs...
  
 - ### 💬 Ask me about Web dev and Embedded Systems
 
