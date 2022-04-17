@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-- ### 🔭 Solving Problems with Technology
+- ### 🔭 Building the future with Technology
 
 - ### 🌱 Contributing more to Open Source
   
