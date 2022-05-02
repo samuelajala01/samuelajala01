@@ -8,19 +8,19 @@
   </a>
 </h1>
 
-- ### 🔭 Building the future with Technology
+- #### 🔭 Building the future with Technology
 
-- ### 🌱 Contributing more to Open Source
+- #### 🌱 Contributing more to Open Source
   
-- ### 👯 Ready to collaborate on Hardware or Software projects 
+- #### 👯 Ready to collaborate on Hardware or Software projects 
  
-- ### 🤔 I’m looking for help with webRTC SDKs...
+- #### 🤔 I’m looking for help with webRTC SDKs...
  
-- ### 💬 Ask me about Web dev and Embedded Systems
+- #### 💬 Ask me about Web dev and Embedded Systems
 
-- ### 😄 Pronouns: He/Him
+- #### 😄 Pronouns: He/Him
  
-- ### ⚡ Fun fact: I practice martial Arts <br><br>
+- #### ⚡ Fun fact: I practice martial Arts <br><br>
 
 
 ## My Dev Stats:
