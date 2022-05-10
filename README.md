@@ -15,7 +15,7 @@
  
 - #### 🤔 I’m looking for help with webRTC SDKs...
  
-- #### 💬 Ask me about Web dev and Embedded Systems
+- #### 💬 Ask me about Web dev
 
 - #### 😄 Pronouns: He/Him
  
