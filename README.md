@@ -24,7 +24,7 @@
 
 ## My Dev Stats:
 <div align="center">
-  <img align="center" width=600em src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=0000FF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" width=600em src="https://github-readme-stats.vercel.app/api?username=samuelajala01&color=00FF00&show_icons=true&title_color=#00FF00&include_all_commits=true&count_private=true&border_radius=50&text_color=#149414"/>
   <img align="center" width=600em src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&langs_count=7&theme=dark"/>
  </div>
   <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=samuelajala01&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=480"/> 
