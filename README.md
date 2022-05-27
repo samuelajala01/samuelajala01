@@ -13,9 +13,9 @@
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
  
-- #### 🤔 I’m looking for help with webRTC SDKs...
+- #### 🤔 I’m looking for help with nothing...
  
-- #### 💬 Ask me about Web dev
+- #### 💬 Ask me about Arduino
 
 - #### 😄 Pronouns: He/Him
  
