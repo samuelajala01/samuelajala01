@@ -13,9 +13,9 @@
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
  
-- #### 🤔 I’m looking for help with nothing...
+- #### 🤔 I’m looking for help with...
  
-- #### 💬 Ask me about Arduino
+- #### 💬 Ask me about JavaScript
 
 - #### 😄 Pronouns: He/Him
  
