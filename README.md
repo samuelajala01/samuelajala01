@@ -23,8 +23,8 @@
 
 ### My Dev Stats:
 <div align="center">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=149414&title_color=149414&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=149414"/>
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=149414&text_color=149414&langs_count=7&bg_color=000"/>
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=149414&title_color=149414&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=149414"/>
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=149414&text_color=149414&langs_count=7&bg_color=000"/>
  </div> 
   
  
