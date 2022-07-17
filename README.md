@@ -15,7 +15,7 @@
  
 - #### 🤔 I’m looking for help with...
  
-- #### 💬 Ask me about JavaScript
+- #### 💬 Ask me about me
 
 - #### 😄 Pronouns: He/Him
  
