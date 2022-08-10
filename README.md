@@ -15,7 +15,7 @@
  
 - #### 🤔 I’m looking for help with...
  
-- #### 💬 Ask me about IoT
+- #### 💬 Ask me about IoT, JavaScript and Python
 
 - #### 😄 Pronouns: He/Him
  
