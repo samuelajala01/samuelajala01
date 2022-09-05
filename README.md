@@ -13,9 +13,9 @@
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
  
-- #### 🤔 I’m looking for help with...
+- #### 🤔 I’m looking for help with SDKs
  
-- #### 💬 Ask me about IoT
+- #### 💬 Ask me about Physics, IoT and Web dev
 
 - #### 😄 Pronouns: He/Him
  
