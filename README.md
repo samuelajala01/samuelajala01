@@ -19,7 +19,7 @@
 
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I practice martial Arts <br><br>
+- #### ⚡ Fun fact: I play Chess <br><br>
 
 ### My Dev Stats:
 <div align="center">
