@@ -9,7 +9,7 @@
 
 - #### 🔭 Building the future with Technology
 
-- #### 🌱 Contributing more to Open Source
+- #### 🌱 Currently learning React
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
  
@@ -19,7 +19,7 @@
 
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I play Chess <br><br>
+- #### ⚡ Fun fact: I used to have synesthesia <br><br>
 
 ### My Dev Stats:
 <div align="center">
