@@ -1,11 +1,7 @@
 
-<h1 align = center> Samuel Ajala</h1>
-
- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heyyo!👋;I+am+a+Robotics+Enthusiast;also+an+ML+Enthusiast;Welcome+to+my+Profile!&color=149414&center=true&size=25&">
-  </a>
-</h1>
+<h1 align = center> Cy63rX</h1>
+Hola, I'm Samuel Ajala, a Hardware and Software developer, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
+I started my tech journey in 2017 out of curiosity and since then tried different areas - BlockChain, Frontend, CyberSecurity and I'm still learning.
 
 - #### 🔭 Building the future with Technology
 
@@ -18,8 +14,6 @@
 - #### 💬 Ask me about Physics, IoT and Web dev
 
 - #### 😄 Pronouns: He/Him
- 
-- #### ⚡ Fun fact: I used to have synesthesia <br><br>
 
 ### My Dev Stats:
 <div align="center">
