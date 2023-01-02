@@ -1,7 +1,7 @@
 
 <h1 align = center> Cy63rX</h1>
 Hola, I'm Samuel Ajala, a Hardware and Software developer, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
-I started my tech journey in 2017 out of curiosity and since then tried different areas - BlockChain, Frontend, CyberSecurity and I'm still learning.
+I started my tech journey in 2017 out of curiosity and since then been exploring different areas - Blockchain, Frontend, CyberSecurity...
 
 - #### 🔭 Building the future with Technology
 
@@ -48,7 +48,7 @@ I started my tech journey in 2017 out of curiosity and since then tried differen
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
-[![Instagram Badge](https://img.shields.io/badge/-@xamy.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/xamy.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@xamy.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cy63rx)
 [![GitHub samuelajala01](https://img.shields.io/github/followers/samuelajala01?label=follow&style=social)](https://github.com/samuelajala01)
 
 
