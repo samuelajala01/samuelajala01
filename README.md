@@ -5,7 +5,7 @@ I started my tech journey in 2017 out of curiosity and since then been exploring
 
 - #### 🔭 Building the future with Technology
 
-- #### 🌱 Currently learning React
+- #### 🌱 Currently learning React js
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
  
