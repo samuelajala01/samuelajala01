@@ -3,7 +3,7 @@
 Hola, I'm Samuel Ajala, a Hardware and Software developer, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
 I started my tech journey in 2017 out of curiosity and since then been exploring different areas - Blockchain, Frontend, CyberSecurity...
 
-- #### 🔭 Building the future with Technology
+- #### 🔭 Building the future with Technology, I'm a futuristic thinker.
 
 - #### 🌱 Currently learning React js
   
