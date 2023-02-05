@@ -1,6 +1,6 @@
 
 <h1 align = center> Cy63rX</h1>
-Hola, I'm Samuel Ajala, a Hardware and Software developer, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
+Hi, I'm Samuel Ajala, a Hardware and Software Enthusiast, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
 I started my tech journey in 2017 out of curiosity and since then have explored and still exploring different domains, which makes me more of a generalist than specialist, what really piques my interest are areas that allows me build stuff, software and hardware but mostly hardware, so I'm on a path to being a Robotics Engineer.
 
 - #### 🔭 Building the future with Technology, I'm a futurist.
