@@ -5,7 +5,7 @@ I started my tech journey in 2017 out of curiosity and since then have explored 
 
 - #### 🔭 Building the future with Technology, I'm a futurist.
 
-- #### 🌱 Currently learning Python
+- #### 🌱 Currently learning Python and ML
   
 - #### 👯 Ready to collaborate on Hardware or Software projects 
 
