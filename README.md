@@ -10,6 +10,7 @@ I started my tech journey in 2017 out of curiosity and since then have explored 
 - #### 👯 Ready to collaborate on Hardware or Software projects 
 
 - #### 💬 Ask me about Physics, IoT and Web dev
+- #### Available for freelance web development gigs
 
 ### My Dev Stats:
 <div align="center">
