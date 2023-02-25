@@ -14,15 +14,15 @@ I started my tech journey in 2017 out of curiosity and since then have explored 
 
 ### My Dev Stats:
 <div align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=149414&title_color=149414&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=149414"/>
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=149414&text_color=149414&langs_count=7&bg_color=000"/>
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=00ff00&title_color=00ff00&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=00ff00"/>
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
  </div> 
   
   
 ### Contribution graph
-<img src="https://activity-graph.herokuapp.com/graph?username=samuelajala01&bg_color=000000&color=149414&line=149414&point=58a6ff&hide_border=true" />
- 
-  ## Languages and Tools:
+[![Cy63rX's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelajala01&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Languages and Tools:
 
 <p align="center">
  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
