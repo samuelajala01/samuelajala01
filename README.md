@@ -1,15 +1,8 @@
-Hi, I'm Samuel Ajala, a Hardware and Software Enthusiast, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
-I started my tech journey in 2017 out of curiosity and since then have explored and still exploring different domains. I see myself more of a generalist than specialist. What really piques my interest are domains that allows me build stuff, software and hardware but mostly hardware. 
+Hi, I'm Samuel, a Hardware and Software Enthusiast, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
+I started exploring the tech space in 2017 out of curiosity and have explored and still exploring different domains. I see myself more of a generalist than specialist. What really piques my interest are domains that allows me build stuff, software and hardware but mostly hardware. 
 
-- #### 🔭 Interested in building the future with Technology.
+- 🌱 status: Currently learning Python and Machine Learning
 
-- #### 🌱 Currently learning Python and Machine Learning
-  
-- #### 👯 Ready to collaborate on Hardware or Software projects 
-
-- #### 💬 Ask me about Physics, IoT and Web dev
-
-- #### Available for freelance web development gigs
 
 ### My Dev Stats:
 <div align="center">
