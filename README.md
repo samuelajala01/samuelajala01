@@ -31,16 +31,11 @@ I started exploring the tech space in 2017 out of curiosity and have explored an
      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
-
-
 ### Let's Connect: 
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
 [![Instagram Badge](https://img.shields.io/badge/-@cy63rx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cy63rx)
-[![GitHub samuelajala01](https://img.shields.io/github/followers/samuelajala01?label=follow&style=social)](https://github.com/samuelajala01)
-
-
 
 <br><br>
   ### Support Me
