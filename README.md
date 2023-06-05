@@ -1,7 +1,7 @@
 Hi, I'm Samuel, a Hardware and Software Enthusiast, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
 I started exploring the tech space in 2017 out of curiosity and have explored and still exploring different domains. I see myself more of a generalist than specialist. What really piques my interest are domains that allows me build stuff, software and hardware but mostly hardware. 
 
-- 🌱 status: Currently learning Python and Machine Learning
+- 🌱 status: Currently learning Machine Learning with Tensorflow
 
 
 ### My Dev Stats:
