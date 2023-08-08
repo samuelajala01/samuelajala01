@@ -1,8 +1,6 @@
-Hi, I'm Samuel, a Hardware and Software Enthusiast, I'm currently studying Electronics and Computer Engineering at the Lagos State University.
-I started exploring the tech space in 2017 out of curiosity and have explored and still exploring different domains. I see myself more of a generalist than specialist. What really piques my interest are domains that allows me build stuff, software and hardware but mostly hardware. 
+Hi, I'm Sam, Robotics and ML enthusiast. I'm currently studying Electronics and Computer Engineering at the Lagos State University.
 
-- 🌱 status: ...
-
+I started exploring the tech space in 2017 out of curiosity and have explored and still exploring different domains. I don't like to limit myself so I'm more of a generalist than specialist. What really piques my interest are domains that allows me build stuff.
 
 ### My Dev Stats:
 <div align="center">
