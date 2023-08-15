@@ -1,6 +1,6 @@
 Hi, I'm Sam, Robotics and ML enthusiast. I'm currently studying Electronics and Computer Engineering at the Lagos State University.
 
-I started exploring the tech space in 2017 out of curiosity and have explored and still exploring different domains. I don't like to limit myself so I'm more of a generalist than specialist. What really piques my interest are domains that allows me build stuff.
+I started exploring tech domains in 2017 out of curiosity and have explored a lot. I don't like limited knowledge so I'm more of a generalist than specialist. What really piques my interest are domains that allows me build stuff.
 
 ### My Dev Stats:
 <div align="center">
