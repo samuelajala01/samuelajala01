@@ -2,6 +2,8 @@ Hi, I'm Sam, Robotics and ML enthusiast. I'm currently studying Electronics and 
 
 I started exploring tech domains in 2017 out of curiosity and have explored a lot. I don't like limited knowledge so I'm more of a generalist than specialist. What really piques my interest are domains that allows me build stuff.
 
+Fun fact: I'm addicted to Chess
+
 ### My Dev Stats:
 <div align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=00ff00&title_color=00ff00&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=00ff00"/>
