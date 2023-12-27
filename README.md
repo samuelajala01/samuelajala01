@@ -1,11 +1,8 @@
-Hi, I'm Sam, Robotics and ML enthusiast. I'm currently studying Electronics and Computer Engineering at the Lagos State University.
+Hi, I'm Sam, Robotics and ML enthusiast. I'm currently in my third year studying Electronics and Computer Engineering at the Lagos State University.
 
-I started exploring tech domains in 2017 out of curiosity and have explored a lot. I don't like limited knowledge so I'm more of a generalist than specialist. What really piques my interest are domains that allows me build stuff.
+I started exploring tech domains in 2017 out of curiosity and have explored a different fields. I'm more of a generalist than specialist as it allows ke draw concepts and ideas into my current field. What really piques my interest are domains that allows me build stuff.
 
-Fun fact: I'm addicted to Chess
 - 🌱 status: Currently exploring the ML/DS field
-
-- Fun fact: I'm addicted to Chess
 
 ### My Dev Stats:
 <div align="center">
