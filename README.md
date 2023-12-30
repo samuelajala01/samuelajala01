@@ -1,20 +1,14 @@
-Hi, I'm Sam, Robotics and ML enthusiast. I'm currently in my third year studying Electronics and Computer Engineering at the Lagos State University.
-
-I started exploring tech domains in 2017 out of curiosity and have explored a different fields. I'm more of a generalist than specialist as it allows ke draw concepts and ideas into my current field. What really piques my interest are domains that allows me build stuff.
+# <p align="center">Samuel Ajala</p>
+<div align="center">Hi, I'm Sam, Robotics and Machine Learning Engineer. I'm currently in my third year studying Electronics and Computer Engineering at the Lagos State University. I started exploring tech domains in 2017 out of curiosity and have explored a different fields. I'm more of a generalist than specialist as it allows ke draw concepts and ideas into my current field. What really piques my interest are domains that allows me build stuff.
+</div>
+<p></p>
+<p></p>
 
 - 🌱 status: Currently exploring the ML/DS field
+- 🕸 Available for: Machine Learning role, Project colab.
 
-### My Dev Stats:
-<div align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=00ff00&title_color=00ff00&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=00ff00"/>
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
- </div> 
-  
-  
-### Contribution graph
-[![Cy63rX's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelajala01&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Languages and Tools:
+## Tech Stack🛠
 
 <p align="center">
  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -31,14 +25,30 @@ I started exploring tech domains in 2017 out of curiosity and have explored a di
      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
-### Let's Connect: 
+## 📝 Recent Technical Articles: 
+- [What Exactly is Machine Learning](https://samuelajala01.hashnode.dev/what-exactly-is-machine-learning)
+- [Things I wish I knew when I started coding](https://samuelajala01.hashnode.dev/things-i-wish-i-knew-when-i-started-coding)
+
+
+### 📊 My Dev Stats:
+<div align="center">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=00ff00&title_color=00ff00&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=00ff00"/>
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
+ </div> 
+  
+  
+### Contribution graph
+[![Cy63rX's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelajala01&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### 🌍 Let's Connect: 
 
 [![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
 [![Instagram Badge](https://img.shields.io/badge/-@cy63rx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cy63rx)
 
 <br><br>
-  ### Support Me
+  ### Support Me:
 <a href="https://www.buymeacoffee.com/samuelajala01" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align=center>
