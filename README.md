@@ -1,8 +1,9 @@
-# <p align="center">Samuel Ajala</p>
-<div align="center">Hi, I'm Sam, Robotics and Machine Learning Engineer. I'm currently in my third year studying Electronics and Computer Engineering at the Lagos State University. I started exploring tech domains in 2017 out of curiosity and have explored a different fields. I'm more of a generalist than specialist as it allows ke draw concepts and ideas into my current field. What really piques my interest are domains that allows me build stuff.
+# <p align="center">Sam</p>
+<div align="center">
+ Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.
 </div>
-<p></p>
-<p></p>
+<br>
+<br>
 
 - 🌱 status: Currently exploring the ML/DS field
 - 🕸 Available for: Machine Learning role, Project colab.
