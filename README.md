@@ -1,4 +1,4 @@
-# <p align="center">Sam</p>
+
 <div align="center">
  Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.
 </div>
@@ -31,16 +31,10 @@
 - [Things I wish I knew when I started coding](https://samuelajala01.hashnode.dev/things-i-wish-i-knew-when-i-started-coding)
 
 
-### 📊 My Dev Stats:
-<div align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&icon_color=00ff00&title_color=00ff00&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=00ff00"/>
+### 📊 My Dev Stats
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelajala01&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
  </div> 
-  
-  
-### Contribution graph
-[![Cy63rX's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelajala01&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelajala01&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" alt="Samuel Ajala" /></p>
 
 ### 🌍 Let's Connect: 
 
