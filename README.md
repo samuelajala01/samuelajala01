@@ -3,33 +3,39 @@
 </p>
 
   <h1>Hi, I'm Sam,</h1>
-<div align="center">
- Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.
+<div>
+ <h3>Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.</h3>
 </div>
 <br>
 <br>
 
-- 🌱 status: Currently exploring the ML/DS field
-- 🕸 Available for: Machine Learning role, Project colab.
-
+- ### 🌱 status: Currently exploring the ML/DS field
+- ### 🕸 Available for: Machine Learning role, Project colab.
+<br>
+<br>
 
 # Tech Stack🛠
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,cpp,fastapi,nodejs,firebase,arduino,opencv,py,tensorflow,git,github,vercel,vscode,figma,vite&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,cpp,fastapi,nodejs,firebase,arduino,opencv,py,tensorflow,git,github,vercel,vscode,figma,vite&perline=8"/>
   </a>
 </p>
 
+****
 
 # 📝 Recent Technical Articles: 
 - [What Exactly is Machine Learning](https://samuelajala01.hashnode.dev/what-exactly-is-machine-learning)
 - [Things I wish I knew when I started coding](https://samuelajala01.hashnode.dev/things-i-wish-i-knew-when-i-started-coding)
 
+<br>
+<br>
 
 ### 📊 My Dev Stats
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=samuelajala01&theme=dark&show_icons=true&count_private=true" />
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelajala01&theme=dark&hide_border=true" /> 
+<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=samuelajala01&theme=dark&show_icons=true&count_private=true" /></td><td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelajala01&theme=dark&hide_border=true" /></td></tr></table>
+
+<br>
+<br>
 
 ### 🌍 Let's Connect: 
 
