@@ -4,7 +4,7 @@
 
 ### Hi, I'm Sam <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 <div>
- <h4>Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.</h4>
+ <h3>Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. Back in 2017, my tech journey began out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.</h3>
 </div>
 <br>
 <br>
@@ -32,7 +32,7 @@
 <br>
 
 ### 📊 My Dev Stats
-<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=samuelajala01&theme=dark&show_icons=true&count_private=true" /></td><td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelajala01&theme=dark&hide_border=true" /></td></tr></table>
+<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=samuelajala01&theme=dark&show_icons=true&count_private=true" /></td><td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelajala01&theme=dark&hide_border=true" /></td></tr></table>
 
 <br>
 <br>
