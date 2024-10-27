@@ -4,13 +4,13 @@
 
 ### Hi, I'm Sam <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 <div>
- <h3>Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. My tech journey began years back out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.</h3>
+ <h4>Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the third year of my Electronics and Computer Engineering program at Lagos State University. My tech journey began years back out of sheer curiosity, and since then, I've been wandering through different tech landscapes. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts from various fields into my current passion - Artificial Intelligence. I'm all about creating things. What really gets me going are those domains where I can roll up my sleeves and bring ideas to life, building and tinkering with tech to make it work.</h4>
 </div>
 <br>
 <br>
 
-- ### 🌱 status: Currently exploring the ML/DS field
-- ### 🕸 Available for: Machine Learning role, Project colab.
+- #### 🌱 status: Currently exploring the ML/DS field
+- #### 🕸 Available for: Machine Learning role, Project colab.
 <br>
 <br>
 
