@@ -10,15 +10,14 @@ Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating t
 <br>
 
 - #### 🌱 status: Currently exploring the ML/DS field
-- #### 🕸 Available for: Machine Learning gigs, Project colab.
+- #### 🕸 Available for: Machine Learning gigs, Project colab or Hackathon team up
 <br>
 <br>
 
 ### Tech Stack🛠
-
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,cpp,fastapi,nodejs,firebase,arduino,opencv,py,tensorflow,git,github,vercel,vscode,figma,vite&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,fastapi,nodejs,firebase,arduino,opencv,py,tensorflow,git,github,vercel,vscode,figma,vite&perline=8"/>
   </a>
 </p>
 
