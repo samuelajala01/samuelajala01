@@ -38,7 +38,7 @@ Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating t
 
 ### 🌍 Let's Connect: 
 
-[![Twitter: samuelajala01](https://img.shields.io/twitter/follow/samuelajala01?style=social)](https://twitter.com/samuelajala01)
+[![Twitter: samuelajala01](https://img.shields.io/twitter/follow/cy63rx_?style=social)](https://twitter.com/cy63rx_)
 [![Linkedin: samuelajala01](https://img.shields.io/badge/-samuelajala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelajala01/)](https://www.linkedin.com/in/samuelajala01/)
 [![Instagram Badge](https://img.shields.io/badge/-@cy63rx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cy63rx)
 
