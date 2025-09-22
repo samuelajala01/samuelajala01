@@ -2,28 +2,30 @@
 <img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Visitors&color=blue&style=plastic"/>
 </p>
 
-### Hi, I'm Sam <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
+### Meet Sam <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 <div>
-Hey there, I'm a Robotics and Machine Learning enthusiast currently navigating the fourth year of my Electronics and Computer Engineering program at Lagos State University. My tech journey started many years back. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts and ideas from various fields into my current passion - Artificial Intelligence. I'm all about building stuff
+...an Electronics and Computer Engineering undergrad at The Lagos State University. My focus on primarily on Artificial Intelligence and Robotics. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts and ideas from various fields into my current passion.
 </div>
 <br>
 <br>
 
-- #### 🌱 status: Currently exploring the ML/DS field
-- #### 🕸 Available for: Machine Learning gigs, Project colab or Hackathon team up
+- #### 🌱 status: locked out🥲
+- #### 🕸 Available for: research, projects
+- #### 📑Research Interests: Robotics, IoT, Machine Learning, Embedded ML
 <br>
 <br>
 
 ### Tech Stack🛠
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,fastapi,nodejs,firebase,arduino,opencv,py,tensorflow,git,github,vercel,vscode,figma,vite&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,arduino,opencv,py,tensorflow,aws,git,nextjs,nodejs,firebase,github,vercel,vscode,figma,vite&perline=8"/>
   </a>
 </p>
 
 ****
 
 ### 📝 Recent Technical Articles: 
+- [What is LoRa? A Beginner’s Guide to Long-Range IoT Communication](https://medium.com/@samuelajala01/what-is-lora-a-beginners-guide-to-long-range-iot-communication-503bab08f17c)
 - [What Exactly is Machine Learning](https://samuelajala01.hashnode.dev/what-exactly-is-machine-learning)
 - [Things I wish I knew when I started coding](https://samuelajala01.hashnode.dev/things-i-wish-i-knew-when-i-started-coding)
 
