@@ -4,7 +4,11 @@
 
 ### Meet Sam <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 <div>
-...an Electronics and Computer Engineering undergrad at The Lagos State University. My focus on primarily on Artificial Intelligence and Robotics. I tend to dabble in a bit of everything rather than settling for a single specialization. This approach lets me blend concepts and ideas from various fields into my current passion.
+I'm a final-year Electronics and Computer Engineering student with a deep interest in Robot Learning and Embodied AI. The idea of giving intelligence a physical form has fascinated me since I was 12, when I first saw Honda's ASIMO robot, I started to think, how can this really help people.
+
+Today, I'm particularly interested in how AI can extend beyond screens into the physical world, through IoT, embedded ml, and Robotics. I'm also developing a growing curiosity for research in these fields.
+
+I enjoy learning by building. I experiment with electronics, explore AI models, and translate concepts into real prototypes. I'm always open to meaningful collaborations and conversations around Machine Learning, Robotics, or emerging AI applications. If that resonates with you, let's connect.
 </div>
 <br>
 <br>
