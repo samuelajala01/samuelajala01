@@ -29,10 +29,11 @@ I enjoy learning by building. I experiment with electronics, explore AI models, 
 ****
 
 ### 📝 Recent Technical Articles: 
+- [How do Robots Learn: A comprehensive Introduction to Robot Learning](https://medium.com/@samuelajala01/how-do-robots-learn-a-comprehensive-introduction-to-robot-learning-7f46adb4ff7b)
 - [What is LoRa? A Beginner’s Guide to Long-Range IoT Communication](https://medium.com/@samuelajala01/what-is-lora-a-beginners-guide-to-long-range-iot-communication-503bab08f17c)
 - [What Exactly is Machine Learning](https://samuelajala01.hashnode.dev/what-exactly-is-machine-learning)
 - [Things I wish I knew when I started coding](https://samuelajala01.hashnode.dev/things-i-wish-i-knew-when-i-started-coding)
-
+]
 <br>
 <br>
 
