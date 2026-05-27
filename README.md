@@ -14,12 +14,15 @@ I enjoy learning by building. I experiment with electronics, explore AI models, 
 <br>
 
 ### Tech Stack🛠
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,arduino,opencv,py,tensorflow,aws,git,nextjs,nodejs,firebase,github,vercel,vscode,figma,vite&perline=8"/>
   </a>
-</p>
-
+</p> -->
+- Programming: Python, JavaScript, Embedded C
+- Machine Learning: Tensorflow, Scikit-learn, Huggingface Transformers
+- Cloud & DevOps: AWS (App Runner, S3, ECR, ECS), Docker, Github Actions
+- Tools & Libraries: LangChain, FastAPI, Haystack
 ****
 
 ### 📝 Recent Technical Articles: 
@@ -32,8 +35,7 @@ I enjoy learning by building. I experiment with electronics, explore AI models, 
 <br>
 
 ### 📊 My Dev Stats
-<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=samuelajala01&theme=dark&show_icons=true&count_private=true" /></td><td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelajala01&theme=dark&hide_border=true" /></td></tr></table>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelajala01&theme=merko&border_radius=8)](https://git.io/streak-stats)
 <br>
 <br>
 
