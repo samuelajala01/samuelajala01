@@ -1,4 +1,3 @@
-<p>
 <img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Visitors&color=blue&style=plastic"/>
 </p>
 
@@ -35,7 +34,8 @@ I enjoy learning by building. I experiment with electronics, explore AI models, 
 <br>
 
 ### 📊 My Dev Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelajala01&theme=merko&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelajala01&ttext_color=00ff00&bg_color=000000&border_radius=8)](https://git.io/streak-stats)
+![Sam's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=samuelajala01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=00ff00&bg_color=000000&include_all_commits=true)
 <br>
 <br>
 
