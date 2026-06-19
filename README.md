@@ -8,20 +8,16 @@ I'm a final-year Electronics and Computer Engineering student with an interest i
 I'm interested in how AI can extend beyond screens into the physical world, through IoT, embedded ml, and Robotics. I'm also developing a growing curiosity for research in these fields.
 <br>
 <br>
-I enjoy learning by building. I experiment with electronics, explore AI models, and translate concepts into real prototypes. I'm always open to meaningful collaborations and conversations around Machine Learning, Robotics, or emerging AI applications. If that resonates with you, let's connect.
+I enjoy learning by building. I experiment with electronics, explore AI models, and translate concepts into real prototypes. I'm open to meaningful collaborations like research and projects around Machine Learning, Robotics, or emerging AI applications. If that resonates with you, let's connect.
 <br>
 <br>
 
 ### Tech Stack🛠
-<!-- <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,arduino,opencv,py,tensorflow,aws,git,nextjs,nodejs,firebase,github,vercel,vscode,figma,vite&perline=8"/>
-  </a>
-</p> -->
-- Programming: Python, JavaScript, Embedded C
-- Machine Learning: Tensorflow, Scikit-learn, Huggingface Transformers
-- Cloud & DevOps: AWS (App Runner, S3, ECR, ECS), Docker, Github Actions
-- Tools & Libraries: LangChain, FastAPI, Haystack
+- Domains: `Robotics` `On-device Computing` `Machine Learning`
+- Programming: `Python` `JavaScript` `Embedded C`
+- Machine Learning: `Tensorflow` `Scikit-learn`  `Huggingface Transformers`
+- Cloud & DevOps: `AWS(App Runner, S3, ECR, ECS)` `Docker` `Github Actions`
+- Tools & Libraries: `LangChain` `FastAPI` `Haystack`
 ****
 
 ### 📝 Recent Technical Articles: 
@@ -34,7 +30,7 @@ I enjoy learning by building. I experiment with electronics, explore AI models, 
 <br>
 
 ### 📊 My Dev Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelajala01&text_color=00ff00&bg_color=000000&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuelajala01&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 ![Sam's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=samuelajala01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=00ff00&bg_color=000000&include_all_commits=true)
 <br>
